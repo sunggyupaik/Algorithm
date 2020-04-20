@@ -1,6 +1,3 @@
-#JadenCase 문자열 만들기.txt
-
-```java
 class Solution {
   public String solution(String s) {
   StringBuffer sb = new StringBuffer();
@@ -24,7 +21,6 @@ class Solution {
 		return sb.toString();
   }
 }
-```
 
 toUpperCase(), toLowerCase()는 각가 대문자 소문자를 만들어준다.
 s.toCharArray()는 String 문자열을 char배열로 만든다.
