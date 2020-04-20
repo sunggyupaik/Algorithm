@@ -22,6 +22,6 @@ class Solution {
   }
 }
 
-toUpperCase(), toLowerCase()는 각가 대문자 소문자를 만들어준다.
-s.toCharArray()는 String 문자열을 char배열로 만든다.
-**boolean으로 첫문자인지 아닌지를 확인한다.**
+//toUpperCase(), toLowerCase()는 각가 대문자 소문자를 만들어준다.
+//s.toCharArray()는 String 문자열을 char배열로 만든다.
+//boolean으로 첫문자인지 아닌지를 확인한다.
